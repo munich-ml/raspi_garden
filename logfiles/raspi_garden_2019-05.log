@@ -2575,7 +2575,7 @@ WeatherForecast +0 days:
 2019-05-28 13:03:35,900 [INFO] JKey.LOCAL_SENSOR
 	CPU T=47.8°C
 	int T=25.3°C, RH=38.9%
-	ext T= 7.4°C, RH=3313.4%
+	ext T= 7.4°C, RH=33.4%
 2019-05-28 14:03:40,962 [INFO] JKey.LOCAL_SENSOR
 	CPU T=48.3°C
 	int T=26.2°C, RH=38.5%
