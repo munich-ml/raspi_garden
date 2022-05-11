@@ -1,9 +1,9 @@
 # Garden control for springer an mower robot 
 
 # Sprinkler 
-SprinklerNorth True 00:40:00
-SprinklerWest True 00:35:00
-SprinklerEast True 00:20:00
+SprinklerNorth True 00:28:00
+SprinklerWest True 00:16:00
+SprinklerEast True 00:09:00
 SprinklerSchedule 2019-04-01 23:00:00
 SprinklerSchedule 2019-03-26 21:35:00
 SprinklerWindInhibit True 25       # [km/h] 
@@ -11,6 +11,7 @@ SprinklerWindInhibit True 25       # [km/h]
 # Randy
 RandyChargeTime 10:00:00 10:00:00  # first on then off time
 RandyMowTime 9:00:00 18:00:00      # first on then off time
+RandyPauseDays 2.5                 # [days]
 RandyRainInhibit True 0.1          # [mm/h]
 RandySprinklerInhibit False
 RandyWindInhibit True 25           # [km/h]

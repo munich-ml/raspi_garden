@@ -28,8 +28,8 @@ PWDN_TIMEOUT = dt.timedelta(0,4,0)                  # How long to keep back-butt
 INACT_TIMEOUT = dt.timedelta(0,20,500000)           # Return to next lower state after this time of button inactivity
 SPRINKLER_PAUSE = dt.timedelta(0,2,0)               # Wait time between two spinkler events
 WEATHER_OWM_RETRY = dt.timedelta(0,60,0)            # Wait time to the next weather acquisition time
-RANDY_RAIN_INHIBIT = 0.06                           # rain [mm/h] limit for randy to mow
-RANDY_PAUSE_DAYS = 0
+RANDY_RAIN_INHIBIT = 0.15                           # rain [mm/h] limit for randy to mow
+RANDY_PAUSE_DAYS = 1
 
 class MainGardenClass():
     def __init__(self):
