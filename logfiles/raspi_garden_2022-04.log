@@ -592,7 +592,7 @@ WeatherForecast +0 days:
 	ext T= 6.1°C, RH=39.8%
 2022-04-21 06:29:02,849 [INFO] JKey.LOCAL_SENSOR
 	CPU T=38.6°C
-	int T= 7.7°C, RH=3286.7%
+	int T= 7.7°C, RH=20.7%
 	ext T= 6.0°C, RH=40.8%
 2022-04-21 07:29:02,841 [INFO] JKey.LOCAL_SENSOR
 	CPU T=40.8°C

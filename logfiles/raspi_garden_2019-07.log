@@ -618,7 +618,7 @@ WeatherForecast +0 days:
 2019-07-05 03:02:36,167 [INFO] JKey.LOCAL_SENSOR
 	CPU T=49.9°C
 	int T=27.2°C, RH=26.5%
-	ext !Exception occured: non-empty format string passed to object.__format__
+	ext T=15.8°C, RH=94.5%
 2019-07-05 04:02:01,322 [INFO] JKey.LOCAL_SENSOR
 	CPU T=49.4°C
 	int T=26.9°C, RH=26.7%
@@ -2765,7 +2765,7 @@ WeatherForecast +0 days:
 	ext T=19.6°C, RH=57.5%
 2019-07-19 06:59:56,067 [INFO] JKey.LOCAL_SENSOR
 	CPU T=52.1°C
-	int T=-14.7°C, RH=3290.5%
+	int T=-14.7°C, RH=27.5%
 	ext T=19.8°C, RH=60.0%
 2019-07-19 07:30:00,010 [INFO] Starting new HTTP connection (1): api.openweathermap.org
 2019-07-19 07:30:00,239 [INFO] JKey.WEATHER_OWM succeeded

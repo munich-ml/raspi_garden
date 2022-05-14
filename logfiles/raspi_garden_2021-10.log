@@ -7640,7 +7640,7 @@ WeatherForecast +0 days:
 2021-05-17 05:04:59,531 [INFO] JKey.LOCAL_SENSOR
 	CPU T=44.5°C
 	int T=19.9°C, RH=32.8%
-	ext T= 5.4°C, RH=3304.7%
+	ext T= 5.4°C, RH=54.7%
 2021-05-17 06:04:59,532 [INFO] JKey.LOCAL_SENSOR
 	CPU T=44.0°C
 	int T=20.0°C, RH=32.9%
@@ -7872,7 +7872,7 @@ WeatherForecast +0 days:
 2021-05-18 13:04:59,614 [INFO] JKey.LOCAL_SENSOR
 	CPU T=52.1°C
 	int T=22.5°C, RH=35.8%
-	ext T=-6.3°C, RH=3305.3%
+	ext T=-6.3°C, RH=51.3%
 2021-05-18 14:04:59,613 [INFO] JKey.LOCAL_SENSOR
 	CPU T=50.5°C
 	int T=27.9°C, RH=33.2%
@@ -7893,7 +7893,7 @@ WeatherForecast +0 days:
 2021-05-18 18:05:02,158 [INFO] JKey.LOCAL_SENSOR
 	CPU T=53.7°C
 	int T=29.9°C, RH=29.8%
-	ext T= 8.6°C, RH=3293.3%
+	ext T= 8.6°C, RH=33.3%
 2021-05-18 19:04:59,631 [INFO] JKey.LOCAL_SENSOR
 	CPU T=49.9°C
 	int T=29.5°C, RH=29.6%
@@ -10708,7 +10708,7 @@ WeatherForecast +0 days:
 2021-06-05 09:05:00,708 [INFO] JKey.LOCAL_SENSOR
 	CPU T=52.6°C
 	int T=27.7°C, RH=30.5%
-	ext T= 9.4°C, RH=3304.1%
+	ext T= 9.4°C, RH=51.1%
 2021-06-05 10:05:00,708 [INFO] JKey.LOCAL_SENSOR
 	CPU T=54.8°C
 	int T=29.5°C, RH=30.3%
@@ -11283,7 +11283,7 @@ WeatherForecast +0 days:
 2021-06-09 06:05:03,448 [INFO] JKey.LOCAL_SENSOR
 	CPU T=50.5°C
 	int T=26.0°C, RH=31.9%
-	ext T= 8.0°C, RH=3306.5%
+	ext T= 8.0°C, RH=58.5%
 2021-06-09 07:05:00,921 [INFO] JKey.LOCAL_SENSOR
 	CPU T=50.5°C
 	int T=25.9°C, RH=32.0%
@@ -11419,7 +11419,7 @@ WeatherForecast +0 days:
 2021-06-10 02:05:03,515 [INFO] JKey.LOCAL_SENSOR
 	CPU T=51.5°C
 	int T=28.6°C, RH=31.9%
-	ext T=-9.2°C, RH=3304.6%
+	ext T=-9.2°C, RH=53.6%
 2021-06-10 03:05:06,042 [INFO] JKey.LOCAL_SENSOR
 	CPU T=51.5°C
 	int T=28.0°C, RH=32.2%
@@ -18329,7 +18329,7 @@ WeatherForecast +0 days:
 2021-07-24 06:05:06,264 [INFO] JKey.LOCAL_SENSOR
 	CPU T=51.5°C
 	int T=28.7°C, RH=28.8%
-	ext T= 9.4°C, RH=3303.3%
+	ext T= 9.4°C, RH=52.3%
 2021-07-24 07:05:03,741 [INFO] JKey.LOCAL_SENSOR
 	CPU T=52.1°C
 	int T=28.5°C, RH=29.0%
@@ -19394,7 +19394,7 @@ WeatherForecast +0 days:
 2021-07-31 00:05:04,162 [INFO] JKey.LOCAL_SENSOR
 	CPU T=54.8°C
 	int T=30.5°C, RH=30.5%
-	ext T=10.6°C, RH=3303.5%
+	ext T=10.6°C, RH=54.5%
 2021-07-31 01:05:04,163 [INFO] JKey.LOCAL_SENSOR
 	CPU T=54.2°C
 	int T=30.5°C, RH=30.5%
@@ -24196,7 +24196,7 @@ WeatherForecast +0 days:
 2021-08-30 10:05:05,968 [INFO] JKey.LOCAL_SENSOR
 	CPU T=46.2°C
 	int T=22.4°C, RH=45.2%
-	ext T= 6.9°C, RH=3316.7%
+	ext T= 6.9°C, RH=77.7%
 2021-08-30 11:05:05,977 [INFO] JKey.LOCAL_SENSOR
 	CPU T=48.3°C
 	int T=23.6°C, RH=43.9%
@@ -28157,7 +28157,7 @@ WeatherForecast +0 days:
 2021-09-24 16:05:07,461 [INFO] JKey.LOCAL_SENSOR
 	CPU T=73.1°C
 	int T=48.5°C, RH=19.7%
-	ext T=16.8°C, RH=3285.3%
+	ext T=16.8°C, RH=21.3%
 2021-09-24 17:05:09,993 [INFO] JKey.LOCAL_SENSOR
 	CPU T=69.3°C
 	int T=48.9°C, RH=19.0%
@@ -28796,7 +28796,7 @@ WeatherForecast +0 days:
 2021-09-28 21:05:10,246 [INFO] JKey.LOCAL_SENSOR
 	CPU T=49.9°C
 	int T=27.2°C, RH=32.6%
-	ext T= 8.6°C, RH=3305.4%
+	ext T= 8.6°C, RH=55.4%
 2021-09-28 22:05:10,250 [INFO] JKey.LOCAL_SENSOR
 	CPU T=49.9°C
 	int T=27.1°C, RH=32.8%
@@ -30091,7 +30091,7 @@ WeatherForecast +0 days:
 2021-10-07 00:05:08,191 [INFO] JKey.LOCAL_SENSOR
 	CPU T=45.6°C
 	int T=21.4°C, RH=29.7%
-	ext T= 5.6°C, RH=3303.9%
+	ext T= 5.6°C, RH=52.9%
 2021-10-07 01:05:10,719 [INFO] JKey.LOCAL_SENSOR
 	CPU T=45.1°C
 	int T=20.7°C, RH=30.0%
@@ -32629,7 +32629,7 @@ WeatherForecast +0 days:
 2021-10-23 04:05:11,676 [INFO] JKey.LOCAL_SENSOR
 	CPU T=38.6°C
 	int T=15.8°C, RH=29.8%
-	ext T= 2.9°C, RH=3304.2%
+	ext T= 2.9°C, RH=54.2%
 2021-10-23 05:05:09,149 [INFO] JKey.LOCAL_SENSOR
 	CPU T=39.7°C
 	int T=15.8°C, RH=29.9%

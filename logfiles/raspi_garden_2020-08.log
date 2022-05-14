@@ -2557,7 +2557,7 @@ WeatherForecast +0 days:
 2020-08-30 22:54:53,990 [INFO] JKey.LOCAL_SENSOR
 	CPU T=46.7°C
 	int T=22.4°C, RH=37.7%
-	ext T= 6.7°C, RH=3309.2%
+	ext T= 6.7°C, RH=66.2%
 2020-08-30 23:54:51,463 [INFO] JKey.LOCAL_SENSOR
 	CPU T=46.2°C
 	int T=22.4°C, RH=37.7%
@@ -7178,7 +7178,7 @@ WeatherForecast +0 days:
 2020-09-29 10:55:00,789 [INFO] JKey.LOCAL_SENSOR
 	CPU T=46.2°C
 	int T=21.7°C, RH=35.2%
-	ext T= 6.3°C, RH=3312.7%
+	ext T= 6.3°C, RH=71.7%
 2020-09-29 11:28:41,809 [INFO] JKey.PIUSV
 	status=2
 	Vbat=4191mV

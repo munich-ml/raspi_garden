@@ -668,7 +668,7 @@ WeatherForecast +0 days:
 2019-08-16 01:39:36,810 [INFO] JKey.LOCAL_SENSOR
 	CPU T=48.3°C
 	int T=26.2°C, RH=34.8%
-	ext T= 8.3°C, RH=3316.1%
+	ext T= 8.3°C, RH=73.1%
 2019-08-16 02:39:34,282 [INFO] JKey.LOCAL_SENSOR
 	CPU T=48.9°C
 	int T=25.6°C, RH=35.8%
@@ -680,7 +680,7 @@ WeatherForecast +0 days:
 2019-08-16 04:39:36,821 [INFO] JKey.LOCAL_SENSOR
 	CPU T=48.3°C
 	int T=25.8°C, RH=35.6%
-	ext T= 8.2°C, RH=3314.9%
+	ext T= 8.2°C, RH=73.9%
 2019-08-16 05:39:36,818 [INFO] JKey.LOCAL_SENSOR
 	CPU T=47.8°C
 	int T=25.5°C, RH=36.2%
@@ -744,7 +744,7 @@ WeatherForecast +0 days:
 2019-08-16 10:39:36,830 [INFO] JKey.LOCAL_SENSOR
 	CPU T=53.2°C
 	int T=30.5°C, RH=34.0%
-	ext T= 9.7°C, RH=3305.8%
+	ext T= 9.7°C, RH=53.8%
 2019-08-16 11:39:36,834 [INFO] JKey.LOCAL_SENSOR
 	CPU T=54.2°C
 	int T=31.8°C, RH=32.2%
@@ -985,7 +985,7 @@ WeatherForecast +0 days:
 2019-08-18 04:39:34,419 [INFO] JKey.LOCAL_SENSOR
 	CPU T=52.1°C
 	int T=30.0°C, RH=29.5%
-	ext T=10.1°C, RH=3307.0%
+	ext T=10.1°C, RH=63.0%
 2019-08-18 05:39:34,431 [INFO] JKey.LOCAL_SENSOR
 	CPU T=51.5°C
 	int T=29.6°C, RH=29.8%

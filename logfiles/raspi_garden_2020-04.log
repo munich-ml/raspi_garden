@@ -759,7 +759,7 @@ WeatherForecast +0 days:
 2020-04-12 16:43:45,236 [INFO] JKey.LOCAL_SENSOR
 	CPU T=67.7°C
 	int T=42.5°C, RH=20.8%
-	ext T=15.1°C, RH=3283.3%
+	ext T=15.1°C, RH=15.3%
 2020-04-12 17:43:45,239 [INFO] JKey.LOCAL_SENSOR
 	CPU T=66.6°C
 	int T=44.9°C, RH=19.0%
@@ -1245,7 +1245,7 @@ WeatherForecast +0 days:
 2020-04-15 21:43:45,421 [INFO] JKey.LOCAL_SENSOR
 	CPU T=48.9°C
 	int T=27.5°C, RH=19.3%
-	ext T= 8.3°C, RH=3286.2%
+	ext T= 8.3°C, RH=20.2%
 2020-04-15 22:11:01,097 [INFO] manual raining initiated
 2020-04-15 22:11:03,122 [INFO] 2020-04-15 22:11:03.122160, JKey.SWITCH_SPRINKLER, (1, 0, 0)
 2020-04-15 22:11:21,664 [INFO] exiting LedTimer thread
@@ -2361,7 +2361,7 @@ WeatherForecast +0 days:
 2020-04-22 16:43:48,377 [INFO] JKey.LOCAL_SENSOR
 	CPU T=72.0°C
 	int T=50.3°C, RH=13.8%
-	ext T=15.5°C, RH=3281.0%
+	ext T=15.5°C, RH= 9.0%
 2020-04-22 17:43:48,377 [INFO] JKey.LOCAL_SENSOR
 	CPU T=68.8°C
 	int T=45.7°C, RH=15.1%
@@ -2670,7 +2670,7 @@ WeatherForecast +0 days:
 2020-04-24 11:43:45,953 [INFO] JKey.LOCAL_SENSOR
 	CPU T=54.2°C
 	int T=29.1°C, RH=21.0%
-	ext T=10.6°C, RH=3290.4%
+	ext T=10.6°C, RH=32.4%
 2020-04-24 12:43:48,485 [INFO] JKey.LOCAL_SENSOR
 	CPU T=60.1°C
 	int T=36.1°C, RH=16.8%
@@ -3499,7 +3499,7 @@ WeatherForecast +0 days:
 2020-04-29 21:43:48,837 [INFO] JKey.LOCAL_SENSOR
 	CPU T=46.2°C
 	int T=23.5°C, RH=30.5%
-	ext T=-6.5°C, RH=3307.7%
+	ext T=-6.5°C, RH=57.7%
 2020-04-29 22:43:48,844 [INFO] JKey.LOCAL_SENSOR
 	CPU T=45.1°C
 	int T=22.7°C, RH=30.6%
@@ -4230,7 +4230,7 @@ WeatherForecast +0 days:
 2020-05-04 09:43:46,562 [INFO] JKey.LOCAL_SENSOR
 	CPU T=49.4°C
 	int T=23.3°C, RH=29.5%
-	ext T= 7.1°C, RH=3304.3%
+	ext T= 7.1°C, RH=50.3%
 2020-05-04 10:43:46,567 [INFO] JKey.LOCAL_SENSOR
 	CPU T=51.0°C
 	int T=25.3°C, RH=30.0%
@@ -7514,7 +7514,7 @@ WeatherForecast +0 days:
 2020-05-25 05:41:54,527 [INFO] JKey.LOCAL_SENSOR
 	CPU T=47.2°C
 	int T=22.9°C, RH=29.9%
-	ext T=-6.7°C, RH=3303.5%
+	ext T=-6.7°C, RH=53.5%
 2020-05-25 06:41:57,054 [INFO] JKey.LOCAL_SENSOR
 	CPU T=47.2°C
 	int T=22.8°C, RH=30.0%
@@ -7815,7 +7815,7 @@ WeatherForecast +0 days:
 2020-05-27 04:41:54,639 [INFO] JKey.LOCAL_SENSOR
 	CPU T=44.0°C
 	int T=20.7°C, RH=28.5%
-	ext T=-5.4°C, RH=3304.6%
+	ext T=-5.4°C, RH=54.6%
 2020-05-27 05:41:54,641 [INFO] JKey.LOCAL_SENSOR
 	CPU T=43.5°C
 	int T=20.2°C, RH=28.6%
@@ -8418,7 +8418,7 @@ WeatherForecast +0 days:
 	ext T=12.6°C, RH=48.8%
 2020-05-31 01:41:54,903 [INFO] JKey.LOCAL_SENSOR
 	CPU T=46.2°C
-	int T=11.4°C, RH=3290.4%
+	int T=11.4°C, RH=27.1%
 	ext T=12.6°C, RH=48.8%
 2020-05-31 02:41:54,903 [INFO] JKey.LOCAL_SENSOR
 	CPU T=45.1°C
@@ -8692,7 +8692,7 @@ WeatherForecast +0 days:
 2020-06-01 19:41:55,004 [INFO] JKey.LOCAL_SENSOR
 	CPU T=59.1°C
 	int T=38.5°C, RH=23.5%
-	ext T=13.9°C, RH=3286.9%
+	ext T=13.9°C, RH=22.9%
 2020-06-01 20:41:55,005 [INFO] JKey.LOCAL_SENSOR
 	CPU T=56.9°C
 	int T=35.5°C, RH=23.9%
